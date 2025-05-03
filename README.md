@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ttjslbz001-akshare-mcp-server-badge.png)](https://mseep.ai/app/ttjslbz001-akshare-mcp-server)
+
 # AKShare MCP Server
 
 A Model Context Protocol (MCP) server that provides financial data analysis capabilities using the AKShare library.
